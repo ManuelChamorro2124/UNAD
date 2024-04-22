@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Salud Mental</title>
+            <link rel="icon" href="Icono.ico" type="image/x-icon"> <!-- Ruta a tu archivo de icono -->
+            <meta charset="UTF-8">
+            <link rel="stylesheet" href="styles.css">
+            <style>
+                /* Estilos para el título llamativo */
+                .fancy-title {
+                    font-family: 'Pacifico', cursive; /* Tipo de letra llamativo */
+                    font-size: 60px; /* Tamaño del título */
+                    text-align: center;
+                    margin-top: 20px; /* Espacio superior */
+                    padding: 10px 20px; /* Espaciado interno del fondo */
+                    background-color: #fff; /* Color de fondo del título */
+                    border-radius: 10px; /* Borde redondeado */
+                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+                    animation: rainbow 5s infinite; /* Animación de arco iris */
+                }
+        
+                /* Animación de arco iris */
+                @keyframes rainbow {
+                    0% {
+                        color: #ff0000; /* Rojo */
+                    }
+                    20% {
+                        color: #ff7f00; /* Naranja */
+                    }
+                    40% {
+                        color: #ff00c8; /* Amarillo */
+                    }
+                    60% {
+                        color: #00ff00; /* Verde */
+                    }
+                    80% {
+                        color: #0000ff; /* Azul */
+                    }
+                    100% {
+                        color: #8a2be2; /* Violeta */
+                    }
+                }
+            </style>
+        </head>
+        <body>
+            <header>
+                <h1 class="fancy-title">Salud Mental</h1> <!-- Nuevo título llamativo -->
+            </header>   
+    <main>
+        <section id="banner">
+            <div class="banner-container">
+                <div class="banner-slides">
+                    <img src="23.jpg" alt="Imagen 1">
+                    <img src="foto2.jpg" alt="Imagen 2">
+                    <img src="34.gif" alt="Imagen 3">
+                    <img src="34.jpg" alt="Imagen 4">
+                    <img src="Apoyo.jpg" alt="Imagen 5">
+                    <!-- Agrega más imágenes según sea necesario -->
+                </div>
+            </div>
+        </section>
+        <section id="introduccion">
+            <h2>Introducción</h2>
+            <p>En un mundo donde la atención se centra en la salud general, la salud mental se está convirtiendo en una parte importante de nuestra calidad de vida. La salud mental involucra muchas emociones, pensamientos y relaciones que afectan cómo pensamos, sentimos y nos comportamos en nuestra vida diaria. Desde el manejo del estrés diario hasta tratamientos más complejos, la salud mental impacta directamente nuestra capacidad para enfrentar desafíos, relacionarnos con los demás y alcanzar nuestro máximo potencial. En esta guía, examinaremos la importancia de la salud mental, los factores que afectan la salud mental y las estrategias para apoyar el pensamiento y los sentimientos en su vida.</p>
+        </section>
+        <section id="soluciones">
+            <h2>Posibles Soluciones</h2>
+            <div class="solution-container">
+                <div class="solution-text">
+                    <h3>· Terapia Cognitivo-Conductual</h3>
+                    <p>La terapia cognitivo-conductual es un enfoque terapéutico que se centra en identificar y cambiar pensamientos negativos o negativos y conductas problemáticas. Se basa en la idea de que nuestro conocimiento (pensamiento) afecta nuestro pensamiento y comportamiento. En terapia intentamos cambiar creencias negativas o inútiles y desarrollar habilidades para afrontar situaciones difíciles. La TCC es eficaz en el tratamiento de muchas afecciones de salud mental, como la depresión, la ansiedad, los trastornos alimentarios y el trastorno obsesivo-compulsivo.</p>
+                </div>
+                <div class="solution-image">
+                    <img src="TCC.jpg" alt="Imagen de Terapia Cognitivo-Conductual">
+                </div>
+            </div>
+            <div class="solution-container">
+                <div class="solution-text">
+                    <h3>· Medicación (bajo supervisión médica)</h3>
+                    <p>El manejo de medicamentos implica el uso de medicamentos psicotrópicos para tratar los trastornos mentales. Estos medicamentos pueden incluir medicamentos contra la ansiedad, medicamentos contra la ansiedad, medicamentos contra la ansiedad, medicamentos contra la ansiedad y más. La decisión de prescribir y elegir el tipo de medicamento depende de muchos factores, incluido el diagnóstico específico, la gravedad del dolor, la respuesta a tratamientos anteriores y las condiciones existentes. Es importante que los medicamentos sean recetados y supervisados ​​por un médico calificado (como un psiquiatra) para garantizar su eficacia y seguridad.</p>
+                </div>
+                <div class="solution-image">
+                    <img src="medic.jpg" alt="Imagen de Medicación (bajo supervisión médica)">
+                </div>
+            </div>
+            <div class="solution-container">
+                <div class="solution-text">
+                    <h3>· Ejercicio Regular</h3>
+                    <p>El ejercicio regular se refiere a la actividad física que favorece la salud y el bienestar. El ejercicio regular no sólo es bueno para el cuerpo, sino que también tiene un efecto positivo en el cerebro. Se ha demostrado que la actividad física regular reduce el estrés, mejora el estado de ánimo, aumenta la confianza en uno mismo, promueve un mejor sueño y reduce el riesgo de trastornos mentales como la depresión y la ansiedad. Se recomiendan al menos 150 minutos de ejercicio moderado por semana, pero cualquier actividad física puede resultar beneficiosa.</p>
+                </div>
+                <div class="solution-image">
+                    <img src="Ejercicio.jpg" alt="Imagen de Ejercicio Regular">
+                </div>
+            </div>
+            <div class="solution-container">
+                <div class="solution-text">
+                    <h3>· Apoyo Social</h3>
+                    <p class="justified-text">El apoyo social se refiere al apoyo emocional, social y de apoyo que recibimos de las relaciones con nuestra familia, amigos, compañeros de trabajo y otras personas en nuestras relaciones. El apoyo social se puede utilizar de muchas maneras, incluido el apoyo emocional (comprensión, sentimientos), el apoyo (consejos, recursos) y el apoyo material (instrucciones, información). Tener un sistema de apoyo sólido se asocia con una mejor salud y bienestar emocional porque brinda apoyo para afrontar el estrés, superar desafíos y mantener relaciones y relaciones.</p>
+                </div>
+                <div class="solution-image">
+                    <img src="Apoyo.jpg " alt="Imagen de Apoyo Social">
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <div class="logo">
+                <img src="logo.jpg" alt="Logo">
+            </div>
+            <div class="footer-text">
+                <p>&copy; 2024 Salud Mental.</p>
+                <p>Manuel Ricardo Chamorro Ruano</p>
+                <p>Telesalud</p>
+                <!-- Agrega otros detalles si es necesario -->
+            </div>
+        </div>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>

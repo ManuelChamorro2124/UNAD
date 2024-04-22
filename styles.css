@@ -1,0 +1,126 @@
+/* Estilos adicionales para las imágenes */
+/* Estilos para los títulos */
+h1, h2 {
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Cambia la fuente de los títulos si deseas */
+    /* Ajusta el tamaño de la letra para los títulos */
+    font-size: 36px; /* Puedes ajustar el tamaño según tu preferencia */
+}
+
+/* Estilos adicionales para las imágenes */
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-gallery img {
+    width: 200px;
+    height: auto;
+    margin: 5px;
+    border: 5px solid #0f13f8; /* Añade un borde de 2px sólido de color negro a las imágenes */
+}
+
+body {
+    background-image: url('fondo.jpg'); /* Ruta al archivo GIF */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+footer {
+    text-align: center;
+}
+.solution-container {
+    display: flex;
+    margin-bottom: 20px; /* Espacio entre cada solución */
+}
+
+.solution-text {
+    flex: 1; /* Toma el espacio restante en el contenedor */
+}
+
+.solution-image img {
+    width: 300px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    margin-right: 20px; /* Espacio entre la imagen y el texto */
+}
+
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.image-gallery img {
+    width: 200px;
+    height: auto;
+    margin: 5px;
+}
+
+.justified-text {
+    text-align: justify;
+}
+
+/* Estilos para el banner de imágenes */
+#banner {
+    text-align: center;
+    border: 4px solid #4154ff; /* Grosor y color del borde */
+    margin: 10px; /* Margen exterior del banner */
+    padding: 5px; /* Relleno dentro del banner */
+}
+
+.banner-container {
+    overflow: hidden;
+    width: 100%;
+}
+
+.banner-slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.banner-slides img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* Estilos para la animación de desplazamiento */
+@keyframes slideLeft {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #f8f9fa; /* Color de fondo del pie de página */
+    padding: 20px 0; /* Espaciado interno del pie de página */
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    margin-right: 30px; /* Espacio entre el logo y el texto */
+}
+
+.logo img {
+    width: 95px; /* Tamaño del logo */
+    height: auto;
+}
+
+/* Estilos para los textos */
+p {
+    /* Ajusta el tamaño de la letra para los textos */
+    font-size: 18px; /* Puedes ajustar el tamaño según tu preferencia */
+    /* Agrega más estilos si es necesario */
+}
