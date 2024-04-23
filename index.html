@@ -67,7 +67,234 @@
             <h2>Introducción</h2>
             <p>En un mundo donde la atención se centra en la salud general, la salud mental se está convirtiendo en una parte importante de nuestra calidad de vida. La salud mental involucra muchas emociones, pensamientos y relaciones que afectan cómo pensamos, sentimos y nos comportamos en nuestra vida diaria. Desde el manejo del estrés diario hasta tratamientos más complejos, la salud mental impacta directamente nuestra capacidad para enfrentar desafíos, relacionarnos con los demás y alcanzar nuestro máximo potencial. En esta guía, examinaremos la importancia de la salud mental, los factores que afectan la salud mental y las estrategias para apoyar el pensamiento y los sentimientos en su vida.</p>
         </section>
-        <section id="soluciones">
+        <br>
+        <section id="que es">
+            <h2>¿Que es la Salud Mental?</h2>
+            <p>La salud mental se refiere al estado de bienestar emocional, psicológico y social en el que una persona puede enfrentar y adaptarse a las tensiones normales de la vida, trabajar de manera productiva y contribuir a su comunidad. Involucra el equilibrio entre los aspectos emocionales, psicológicos y sociales de la vida de una persona, así como su capacidad para manejar el estrés, los desafíos y las relaciones interpersonales de manera saludable. La salud mental abarca una amplia gama de aspectos, desde el bienestar emocional hasta el tratamiento de trastornos mentales específicos. Es fundamental para el funcionamiento general y la calidad de vida de una persona.</p>
+        </section>
+        <section id="principales">
+                <h2>Principales Problemáticas</h2>
+            <p>Las principales problemáticas en salud mental pueden variar según factores como la cultura, la geografía y los recursos disponibles en una determinada región. Sin embargo, algunas de las problemáticas más comunes incluyen:</p>
+                <div class="solution-container2">
+                    <div class="solution-text">
+                        <h3>·  Trastornos de ansiedad:</h3>
+                        <p>Como el trastorno de ansiedad generalizada, fobias específicas, trastorno de pánico y trastorno de estrés postraumático.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Depresión:</h3>
+                        <p>Caracterizada por sentimientos persistentes de tristeza, desesperanza y falta de interés en actividades cotidianas.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Trastornos del estado de ánimo:</h3>
+                        <p>Como el trastorno bipolar, que implica cambios extremos en el estado de ánimo, desde períodos de euforia hasta períodos de depresión.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Trastornos alimenticios:</h3>
+                        <p> Como la anorexia nerviosa, la bulimia nerviosa y el trastorno por atracón, que pueden tener graves implicaciones para la salud física y mental.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Trastornos psicóticos:</h3>
+                        <p>Como la esquizofrenia, que puede provocar alteraciones en la percepción de la realidad, alucinaciones y delirios.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Trastornos de la personalidad:</h3>
+                        <p>Como el trastorno límite de la personalidad, el trastorno narcisista de la personalidad o el trastorno antisocial de la personalidad, que afectan la forma en que una persona piensa, siente y se comporta.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Abuso de sustancias:</h3>
+                        <p>Incluyendo el consumo excesivo de alcohol, drogas ilegales o medicamentos recetados, lo que puede conducir a problemas de salud mental y física.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>·  Problemas de salud mental en niños y adolescentes:</h3>
+                        <p>Como el trastorno por déficit de atención e hiperactividad (TDAH), trastornos de conducta, depresión infantil y trastornos del espectro autista.</p>
+                    </div>
+                </div>
+                <br>
+                <section id="signos">
+                        <h2>Signos y Sintomas</h2>
+                    <p>A continuacion, los signos y sintomas mas comunes asociados con cada una de las problemáticas principales en salud mental:</p>
+                        <div class="solution-container3">
+                            <div class="solution-text">
+                                <h3>·  Trastornos de ansiedad:</h3>
+                                <p> • Sensación de nerviosismo, agitación o tensión. </p>
+                                <p> • Preocupación excesiva o constante. </p>
+                                <p> • Dificultad para concentrarse. </p>
+                                <p> • Irritabilidad. </p>
+                                <p> • Problemas para conciliar el sueño o mantenerse dormido. </p>
+                                <p> • Síntomas físicos como palpitaciones, sudoración, temblores o molestias gastrointestinales. </p>
+
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Depresión:</h3>
+                                <p> • Sentimientos persistentes de tristeza, ansiedad o vacío. </p>
+                                <p> • Pérdida de interés en actividades que antes se disfrutaban. </p>
+                                <p> • Cambios en el apetito o el peso. </p>
+                                <p> • Fatiga o falta de energía. </p>
+                                <p> • Dificultad para concentrarse o tomar decisiones. </p>
+                                <p> • Pensamientos de muerte o suicidio. </p>
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Trastornos del estado de ánimo:</h3>
+                                <p> • Cambios extremos en el estado de ánimo, desde períodos de euforia o manía hasta períodos de depresión. </p>
+                                <p> • Pensamientos acelerados o hablar más rápido de lo habitual durante los episodios de manía. </p>
+                                <p> • Irritabilidad, agitación o comportamiento impulsivo durante los episodios de manía. </p>
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Trastornos alimenticios:</h3>
+                                <p> • Obsesión por el peso, la comida, las calorías o el cuerpo. </p>
+                                <p> • Patrones alimentarios extremos, como comer en exceso o restringir la ingesta de alimentos. </p>
+                                <p> • Preocupación excesiva por la imagen corporal. </p>
+                                <p> • Uso de laxantes, diuréticos o vómitos auto inducidos. </p>
+                                <p> • Cambios en el peso corporal. </p>
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Trastornos psicóticos:</h3>
+                                <p> • Alucinaciones, como escuchar voces o ver cosas que no están presentes. </p>
+                                <p> • Delirios, creencias firmes en cosas que no son verdaderas. </p>
+                                <p> • Hablar o comportarse de manera incoherente. </p>
+                                <p> • Aislamiento social o retracción de actividades sociales habituales. </p>
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Trastornos de la personalidad:</h3>
+                                <p> • Patrones de pensamiento, comportamiento y funcionamiento interpersonal que son inflexibles y mal adaptativos. </p>
+                                <p> • Dificultad para relacionarse con los demás. </p>
+                                <p> • Inestabilidad emocional. </p>
+                                <p> • Comportamientos impulsivos o autodestructivos. </p>
+
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Abuso de sustancias:</h3>
+                                <p> • Consumo excesivo de alcohol, drogas o medicamentos. </p>
+                                <p> • Dificultad para controlar el consumo de sustancias. </p>
+                                <p> • Tolerancia aumentada a las sustancias, necesidad de consumir más para sentir los mismos efectos. </p>
+                                <p> • Síntomas de abstinencia cuando se intenta dejar de consumir la sustancia. </p>
+                            </div>
+                            <div class="solution-text">
+                                <h3>·  Problemas de salud mental en niños y adolescentes:</h3>
+                                <p> • Dificultad para prestar atención o concentrarse (TDAH). </p>
+                                <p> • Comportamiento impulsivo o hiperactivo (TDAH). </p>
+                                <p> • Cambios en el estado de ánimo, como irritabilidad o tristeza persistente. </p>
+                                <p> • Problemas para relacionarse con los demás. </p>
+                                <p> • Comportamiento desafiante o agresivo. </p>
+                                <p> • Preocupación excesiva por ciertos temas o rituales repetitivos (trastornos del espectro autista). </p>
+                            </div>
+                        </div>
+                        <section id="acciones">
+                            <h2>Acciones de prevención de la Salud Mental</h2>
+                 <br>
+                            <div class="solution-container3">
+                                <div class="solution-text">
+                                    <h3>•  Educación y concienciación: </h3>
+                                    <p> Promover la educación sobre salud mental en la comunidad para reducir el estigma asociado con los trastornos mentales y fomentar la comprensión de la importancia del bienestar emocional.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Promoción del autocuidado:</h3>
+                                    <p> Enseñar y fomentar prácticas de autocuidado, como una dieta equilibrada, ejercicio regular, sueño adecuado y técnicas de manejo del estrés, para mantener un buen estado de salud mental.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Apoyo social:</h3>
+                                    <p> Promover conexiones sociales saludables y fortalecer los lazos familiares, amistades y redes de apoyo, ya que el apoyo social puede actuar como un amortiguador contra el estrés y las dificultades.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Desarrollo de habilidades para la vida:</h3>
+                                    <p> Enseñar habilidades de afrontamiento y resiliencia para manejar el estrés, resolver problemas y adaptarse a los desafíos de la vida de manera saludable.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Identificación temprana y intervención:</h3>
+                                    <p> Capacitar a profesionales de la salud, educadores y miembros de la comunidad para reconocer los signos tempranos de problemas de salud mental y proporcionar intervención temprana y apoyo adecuados.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Ambientes seguros y saludables:</h3>
+                                    <p> Crear entornos seguros y saludables en la escuela, el trabajo y la comunidad que promuevan el bienestar emocional y reduzcan el riesgo de estrés y trauma.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Acceso a servicios de salud mental:</h3>
+                                    <p> Garantizar el acceso equitativo a servicios de salud mental asequibles y de calidad, incluyendo servicios de prevención, tratamiento y rehabilitación.</p>
+                                </div>
+                                <div class="solution-text">
+                                    <h3>•  Promoción de la igualdad y la inclusión:</h3>
+                                    <p> Abordar las desigualdades sociales y económicas que pueden contribuir al estrés y la exclusión social, promoviendo la igualdad de oportunidades y la inclusión de todas las personas en la sociedad.</p>
+                                </div>
+                            </div>
+                            <br>
+                            <section id="quehacer">
+                <h2>Que hacer si se presenta los signos y síntomas</h2>
+	 <br>
+                <div class="solution-container4">
+                    <div class="solution-text">
+                        <h3>•  Hablar con alguien de confianza:</h3>
+                        <p> Compartir lo que se está sintiendo con un amigo cercano, un miembro de la familia o alguien en quien confíes puede ser el primer paso para obtener apoyo y comprensión.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Consultar a un profesional de la salud: </h3>
+                        <p> Buscar la ayuda de un médico de atención primaria o un profesional de la salud mental, como un psicólogo, psiquiatra o terapeuta, que pueda evaluar los síntomas y proporcionar orientación y tratamiento adecuados.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Buscar recursos de salud mental:</h3>
+                        <p> Investigar y acceder a recursos de salud mental disponibles en la comunidad, como líneas de ayuda telefónica, grupos de apoyo, servicios de consejería o clínicas de salud mental.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Seguir el plan de tratamiento:</h3>
+                        <p> Si se diagnostica un trastorno mental y se recomienda un plan de tratamiento, es importante seguirlo diligentemente, incluyendo tomar medicamentos según lo recetado y asistir a sesiones de terapia o apoyo.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Practicar el autocuidado:</h3>
+                        <p> Incorporar prácticas de autocuidado en la rutina diaria, como hacer ejercicio regularmente, mantener una dieta saludable, dormir lo suficiente y practicar técnicas de relajación como la meditación o la respiración profunda.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Evitar el consumo de sustancias:</h3>
+                        <p> Si bien puede ser tentador recurrir al alcohol, las drogas u otras sustancias para hacer frente a los problemas de salud mental, es importante evitar su uso, ya que pueden empeorar los síntomas y dificultar el tratamiento.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  Buscar apoyo de seres queridos:</h3>
+                        <p> Mantener el contacto con amigos y familiares que brinden apoyo emocional y comprensión puede ser invaluable durante momentos difíciles.</p>
+                    </div>
+                    <div class="solution-text">
+                        <h3>•  No ignorar los pensamientos suicidas:</h3>
+                        <p> Si se tienen pensamientos suicidas o se está en peligro inmediato, es crucial buscar ayuda de inmediato llamando a una línea de ayuda de crisis, acudiendo a la sala de emergencias o contactando a un profesional de la salud.</p>
+                    </div>
+                </div>
+                <br>
+                <section id="quehacer">
+                    <h2>Que hacer si se presenta los signos y síntomas</h2>
+         <br>
+                    <div class="solution-container4">
+                        <div class="solution-text">
+                            <h3>•  Hablar con alguien de confianza:</h3>
+                            <p> Compartir lo que se está sintiendo con un amigo cercano, un miembro de la familia o alguien en quien confíes puede ser el primer paso para obtener apoyo y comprensión.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Consultar a un profesional de la salud: </h3>
+                            <p> Buscar la ayuda de un médico de atención primaria o un profesional de la salud mental, como un psicólogo, psiquiatra o terapeuta, que pueda evaluar los síntomas y proporcionar orientación y tratamiento adecuados.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Buscar recursos de salud mental:</h3>
+                            <p> Investigar y acceder a recursos de salud mental disponibles en la comunidad, como líneas de ayuda telefónica, grupos de apoyo, servicios de consejería o clínicas de salud mental.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Seguir el plan de tratamiento:</h3>
+                            <p> Si se diagnostica un trastorno mental y se recomienda un plan de tratamiento, es importante seguirlo diligentemente, incluyendo tomar medicamentos según lo recetado y asistir a sesiones de terapia o apoyo.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Practicar el autocuidado:</h3>
+                            <p> Incorporar prácticas de autocuidado en la rutina diaria, como hacer ejercicio regularmente, mantener una dieta saludable, dormir lo suficiente y practicar técnicas de relajación como la meditación o la respiración profunda.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Evitar el consumo de sustancias:</h3>
+                            <p> Si bien puede ser tentador recurrir al alcohol, las drogas u otras sustancias para hacer frente a los problemas de salud mental, es importante evitar su uso, ya que pueden empeorar los síntomas y dificultar el tratamiento.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  Buscar apoyo de seres queridos:</h3>
+                            <p> Mantener el contacto con amigos y familiares que brinden apoyo emocional y comprensión puede ser invaluable durante momentos difíciles.</p>
+                        </div>
+                        <div class="solution-text">
+                            <h3>•  No ignorar los pensamientos suicidas:</h3>
+                            <p> Si se tienen pensamientos suicidas o se está en peligro inmediato, es crucial buscar ayuda de inmediato llamando a una línea de ayuda de crisis, acudiendo a la sala de emergencias o contactando a un profesional de la salud.</p>
+                        </div>
+                    </div>
+                    <br>
+    
+            <section id="soluciones">
             <h2>Posibles Soluciones</h2>
             <div class="solution-container">
                 <div class="solution-text">
